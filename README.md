@@ -1,9 +1,10 @@
 ### Hi, my name is Guglielmo
 
-I'm a 2nd-year Computer Engineering student at PoliTo
+I'm a 3nd-year Computer Engineering student at PoliTo
 
-- currently collaborating on [Sossoldi](https://github.com/RIP-Comm/sossoldi)
-- training in [competitive programming](https://codeforces.com/profile/gberga)
-- interested in cybersecurity
-- learning about Linux by running Arch
-- familiar with Flutter, Python, C, and a little C++
+- leader of the software division at [Team Isaac](https://github.com/Team-Isaac-Polito)
+- interested in **embedded systems** and **robotics**
+- sporadically collaborating on [Sossoldi](https://github.com/RIP-Comm/sossoldi)
+- familiar with Python, C, Flutter, and a little Java
+- learning C, C++ and Rust
+- I use Arch BTW
