@@ -1,10 +1,9 @@
 ### Hi, my name is Guglielmo
 
-I'm a 3rd-year Computer Engineering student at PoliTo
+I'm a Master's student in **Embedded Systems** at TU Eindhoven, passionate about **low-level software**, **computer architecture**, and **robotics**.
 
-- leader of the software division at [Team Isaac](https://github.com/Team-Isaac-Polito)
-- interested in **embedded systems** and **robotics**
-- sporadically collaborating on [Sossoldi](https://github.com/RIP-Comm/sossoldi)
-- familiar with Python, C, Flutter, and a little Java
-- learning C, C++ and Rust
+- Bachelor's in Computer Engineering from Politecnico di Torino
+- Former Software Lead at [Team Isaac](https://github.com/Team-Isaac-Polito)
+- Familiar with C, Python, Flutter, and a little Java
+- Learning C and Zig
 - I use Arch BTW
